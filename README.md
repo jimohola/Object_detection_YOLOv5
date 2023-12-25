@@ -25,3 +25,5 @@ Go to [Yolov5 repository](https://github.com/ultralytics/yolov5/) and Click “o
 ### Sample detection on Video
 ![Capture](https://github.com/jimohola/Object_detection_YOLOv5/assets/62597513/769a25ee-daf8-4e5e-83d6-dc8519dd9ace)
 
+https://github.com/jimohola/Object_detection_YOLOv5/assets/62597513/e3fd8308-d3a2-436d-91de-c1ab90995b91
+
